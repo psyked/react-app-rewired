@@ -6,6 +6,7 @@
     "publish": "lerna publish && lerna-npm-readme-hack"
   },
   "devDependencies": {
-    "lerna": "2.0.0"
+    "lerna": "2.0.0",
+    "react-scripts": "2.1.2"
   }
 }
