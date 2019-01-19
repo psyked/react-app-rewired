@@ -6,6 +6,9 @@
   "bin": {
     "react-app-rewired": "./bin/index.js"
   },
+  "scripts": {
+    "test": "jest ."
+  },
   "peerDependencies": {
     "react-scripts": "^2.1.3"
   },
